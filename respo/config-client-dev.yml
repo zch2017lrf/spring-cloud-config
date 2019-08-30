@@ -6,10 +6,10 @@ spring:
       label: master
       server:
         git:
-          uri: https://github.com/zch2017lrf/spring-cloud-config
+          uri: 111
           search-paths: respo
           username: zch2017lrf
-          password: wdmzbjlrf130hui
+          password: 
 
 server:
   port: 8888
