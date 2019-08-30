@@ -6,7 +6,7 @@ spring:
       label: master
       server:
         git:
-          uri: 111
+          uri: zch2017lrf
           search-paths: respo
           username: zch2017lrf
           password: 
